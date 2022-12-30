@@ -1,6 +1,9 @@
-# xylophone
+# Xylophone
 
-A new Flutter project.
+App which plays xylophone music tones
+
+Packages Used ->
+ assets_audio_player: ^3.0.6 ( To play audio files from the assets folder)
 
 ## Getting Started
 
